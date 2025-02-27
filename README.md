@@ -1,0 +1,1 @@
+This is the FPGA image file targetted for Xilinx/AMD xczu9eg-ffvb1156-2. The image includes DPU core that is configured for 2 B4096 DPU cores. The register mapping can be found here: https://docs.amd.com/r/en-US/pg338-dpu/Register-Space
